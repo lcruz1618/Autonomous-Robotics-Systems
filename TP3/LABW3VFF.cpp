@@ -9,7 +9,6 @@
 #define M_PI 3.14159265358979323846f
 //EXERCICIO 1 c/ lidar
 //Luis Cruz N2011164454
-//Jacek Sobecki N2018319609
 RPLidar lidar;
 BufferedSerial se_lidar(PA_9, PA_10);
 PwmOut rplidar_motor(D3);
